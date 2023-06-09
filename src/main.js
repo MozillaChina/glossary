@@ -1,0 +1,1 @@
+// 这个js允许index.html读取数据
